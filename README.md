@@ -10,7 +10,7 @@
 - 📚 I’ve built projects that involve **data visualization**, **ETL pipelines**, **AI tools**, and **cloud deployment**  
 - 📈 Currently learning and building real-world dashboards, **data-driven web apps**, and **AI-integrated analysis tools**  
 - 🤝 I’m open to collaborating on **data analysis**, **AI + analytics tools**, and **SQL-based automation**  
-- 📬 Reach me at: **adityagavhane@example.com** *(replace with your real email)*  
+- 📬 Reach me at: gavhaneaditya718@gmail.com 
 - ⚡ Fun fact: I love turning raw data into real decisions 🚀
 
 ---
