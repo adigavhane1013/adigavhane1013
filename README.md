@@ -43,15 +43,6 @@
 
 ---
 
-### 📂 Notable Projects
-
-- 📈 **Sales Dashboard (Excel + Power BI + SQL)** – Visual dashboard to analyze revenue, trends, and forecasts  
-- 🤖 **AI Chatbot using Multiple APIs** – Context-aware chatbot that uses OpenAI, Gemini, Claude, etc.  
-- 🧠 **BrainHealthPro** – EEG + ML-powered brain health analyzer with clinical decision support  
-- 📚 **Library Management System** – Full-stack Java + MySQL CRUD-based student library system
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
