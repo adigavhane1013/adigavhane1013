@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Adityaaa Gavhane</h1>
+<h1 align="center">Hi 👋, I'm Aditya Gavhane</h1>
 
 <p align="center">
-<strong>Final-year CSE Student</strong> | <strong>Aspiring Data Analyst</strong>  
+<strong>Final-year CSE Student Aspiring AI/ML & Data Analyst</strong>  
 </p>
 
 ---
 
-- 📊 I’m passionate about **Data Analysis**, **Dashboards**, and solving problems using **SQL, Excel, Power BI & Python**  
+- 📊 I’m passionate about **AI, Machine Learning**, and **Data Analysis** using **SQL, Excel, Power BI & Python**  
 - 📚 I’ve built projects that involve **data visualization**, **ETL pipelines**, **AI tools**, and **cloud deployment**  
 - 📈 Currently learning and building real-world dashboards, **data-driven web apps**, and **AI-integrated analysis tools**  
-- 🤝 I’m open to collaborating on **data analysis**, **AI + analytics tools**, and **SQL-based automation**  
-- 📬 Reach me at: gavhaneaditya718@gmail.com 
-- ⚡ Fun fact: I love turning raw data into real decisions 🚀
+- 🤝 I’m open to collaborating on **AI**, **analytics tools**, and **SQL-based automation**  
+- 📬 Reach me at: [gavhaneaditya718@gmail.com](mailto:gavhaneaditya718@gmail.com)  
 
 ---
 
