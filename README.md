@@ -8,10 +8,9 @@
 
 ### 🔧 What I Work On
 
-- Building **AI-driven backend systems**, not just demos  
+- Building **AI-driven systems**, not just demos  
 - Developing **RAG pipelines**, document search systems, and AI agents  
 - Designing **automation workflows** for data collection, processing, and delivery  
-- Writing clean, structured **Python backends** with real execution logic  
 
 ---
 
@@ -20,13 +19,12 @@
 - Retrieval-Augmented Generation (RAG)
 - LLM-based assistants and agents
 - Workflow automation using APIs and orchestration tools
-- Backend reliability, structure, and scalability
 
 ---
 
 ### 🤝 Open To
 
-- AI / GenAI backend projects  
+- AI / GenAI projects  
 - Automation and agent-based systems  
 - Practical AI tools used by real users  
 
