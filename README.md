@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Gavhane</h1>
 
 <p align="center">
-<strong>Final-year CSE student focused on Applied AI, LLM systems, and backend automation</strong>
+<strong>Final-year CSE student focused on building AI-based systems using LLMs and automation tools</strong>
 </p>
 
 ---
