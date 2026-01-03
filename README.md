@@ -8,7 +8,7 @@
 
 ### 🔧 What I Work On
 
-- Building **AI-driven systems**, not just demos  
+- Building **AI-driven systems** 
 - Developing **RAG pipelines**, document search systems, and AI agents  
 - Designing **automation workflows** for data collection, processing, and delivery  
 
