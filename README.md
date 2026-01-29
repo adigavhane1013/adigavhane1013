@@ -35,7 +35,7 @@
 📧 Email: [gavhaneaditya718@gmail.com](mailto:gavhaneaditya718@gmail.com)  
 🔗 LinkedIn: https://www.linkedin.com/in/aditya-gavhane-39124825a/  
 🐙 GitHub: https://github.com/adigavhane1013  
-Portfolio: https://portfolio-9fc3r2zpx-aditya-s-projects-497a2998.vercel.app/
+
 ---
 
 ### 🧰 Languages & Tools
