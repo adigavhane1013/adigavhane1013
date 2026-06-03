@@ -9,7 +9,15 @@
 </p>
 
 ---
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/5de73176-295a-471e-801e-14023e75ed20"
+    alt="code"
+    width="700"
+  />
+</p>
 
+---
 ### 🔧 What I Build
 
 - Retrieval-Augmented Generation (RAG) systems
